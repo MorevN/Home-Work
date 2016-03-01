@@ -1,0 +1,28 @@
+.Menu {
+  color: brown;
+  background: green;
+  font-size: 30px;
+}
+.active {
+  text-decoration: underline;
+  font-size: 40px;
+}
+
+.menu_item {
+  font-style: oblique;
+  text-shadow: 1px 2px 3px black;
+}
+
+#Box1 {
+font-size: 28px;
+background: purple;
+text-decoration: overline;
+}
+[text]{
+  color: blue;
+}
+
+[href="http://google.com"]{
+  color: red;
+  text-decoration: none;
+}
